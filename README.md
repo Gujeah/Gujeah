@@ -1,7 +1,7 @@
 ![MasterHead](https://images.unsplash.com/photo-1618401479427-c8ef9465fbe1?q=80&w=2043&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 <h1 align="center">Hi 👋, I'm Ethel Phiri</h1>
-<h3 align="center">A passionate Data analyst, Data Science student and a Junior frontend developer from Malawi</h3>
+<h3 align="center"> A biomedical engineer from Malawi with a keen interest in leveraging machine learning to improve the health and well-being of people</h3>
 <img align="right" alt="coding" width="400" height="300" border-radius="6px" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gujeah&label=Profile%20views&color=0e75b6&style=flat" alt="gujeah" /> </p>
