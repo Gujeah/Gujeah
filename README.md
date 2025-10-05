@@ -8,9 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/gu_coder" target="blank"><img src="https://img.shields.io/twitter/follow/gu_coder?logo=twitter&style=for-the-badge" alt="gu_coder" /></a> </p>
 
-- 🔭 I’m currently working on **WorldQuant Data Science Projects**
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently working on various  **Data science** projects
 
 - 🤝 I’m looking for help with **Deep knowledge with AI**
 
