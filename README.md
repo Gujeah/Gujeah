@@ -18,7 +18,8 @@
 
 ### 🌌 About Me
 
-<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/code-flow.gif">
+<!-- Your original coding girl image -->
+<img align="right" alt="coding" width="400" height="300" style="border-radius:6px" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 - 🔬 **Currently exploring:** Neural networks & brain-computer interfaces
 - 🧩 **Seeking:** Advanced AI/ML collaborations in neuroscience
@@ -27,31 +28,49 @@
 
 <br>
 
-<!-- Animated social badges -->
 <div align="center">
 
-### 🔗 Connect With Me
+### 🔗 Let's Connect
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117)](https://twitter.com/gu_coder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/ethel-phiri261312/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:ethelphiri177@gmail.com)
+<!-- Better looking social badges -->
+<a href="https://twitter.com/gu_coder" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=0D1117&color=1DA1F2" />
+</a>
+<a href="https://www.linkedin.com/in/ethel-phiri261312/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117&color=0077B5" />
+</a>
+<a href="mailto:ethelphiri177@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117&color=D14836" />
+</a>
 
 </div>
 
 ---
 
-### ⚡ Tech Arsenal
+### ⚡ Tech Stack
 
 <div align="center">
 
-<!-- Tech stack with hover effects -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" />
+<!-- Cleaner tech stack with better colors -->
+<a href="#">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Deep%20Learning-7745B3?style=for-the-badge&logo=deepmind&logoColor=white&labelColor=0D1117" />
+</a>
 <br>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/SciKit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117" />
+<a href="#">
+  <img src="https://img.shields.io/badge/Computer%20Vision-4A90E2?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Data%20Visualization-00C9A7?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Time%20Series-FF8066?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" />
+</a>
 
 </div>
 
