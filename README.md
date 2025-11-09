@@ -33,16 +33,16 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-5C3EE8?style=for-the-badge&logo=keras&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-3776AB?style=for-the-badge&logo=plotly&logoColor=white)
-![Time Series](https://img.shields.io/badge/Time_Series-150458?style=for-the-badge)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20Learning-7745B3?style=flat-square&logo=deepmind&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer%20Vision-4A90E2?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Viz-00C9A7?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Time%20Series-FF8066?style=flat-square&logo=pytorch&logoColor=white" />
 
 </div>
 
@@ -52,19 +52,23 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gujeah&show_icons=true&theme=radical" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gujeah&layout=compact&theme=radical" />
+<!-- Languages on LEFT -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gujeah&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117" />
+
+<!-- Stats on RIGHT -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gujeah&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gujeah&theme=radical" />
+<!-- Streak stats centered -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gujeah&theme=nightowl&hide_border=true&background=0D1117" />
 
 </div>
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=gujeah&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=gujeah&color=7745B3&style=flat-square)
 
 </div>
