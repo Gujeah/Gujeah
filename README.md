@@ -24,14 +24,14 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ethel-phiri261312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ethel-phiri261312/" height="30" width="40" /></a>
 </p>
 
-### 💻 Core Competencies
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-5C3EE8?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-3776AB?style=for-the-badge)
-![Time Series](https://img.shields.io/badge/-Time%20Series%20Analysis-150458?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-5C3EE8?style=for-the-badge&logo=keras&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-3776AB?style=for-the-badge&logo=plotly&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time_Series-Analysis-150458?style=for-the-badge)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gujeah&show_icons=true&locale=en&layout=compact" alt="gujeah" /></p>
 
