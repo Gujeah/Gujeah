@@ -79,7 +79,9 @@
 <br>
 
 <!-- Streak with custom colors -->
-<img src="https://streak-stats.demolab.com/?user=gujeah&theme=nightowl&hide_border=true&background=0D1117&ring=7745B3&fire=00C9A7&currStreakLabel=7745B3&hide_total_contributions=true" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=gujeah&theme=nightowl&hide_border=true&background=0D1117&ring=7745B3&fire=00C9A7&currStreakLabel=7745B3" /> --> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gujeah&theme=nightowl&hide_border=true&background=0D1117&ring=7745B3&fire=00C9A7&currStreakLabel=7745B3&hide_total_contributions=true" />
+
 
 </div>
 
