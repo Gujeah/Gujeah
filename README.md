@@ -6,7 +6,7 @@
 <h1>I'm Ethel Phiri welcome feel free</h1>
 
 <!-- Static titles -->
-<h3>Biomedical Engineer | Neuroscience Enthusiast| AI Enthusiast</h3>
+<h3>Biomedical Engineer | Data Scientist| Working on various neuroscience projects</h3>
 
 <!-- Animated tagline -->
 <h4>
@@ -79,7 +79,7 @@
 <br>
 
 <!-- Streak with custom colors -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gujeah&theme=nightowl&hide_border=true&background=0D1117&ring=7745B3&fire=00C9A7&currStreakLabel=7745B3" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gujeah&theme=nightowl&hide_border=true&background=0D1117&ring=7745B3&fire=00C9A7&currStreakLabel=7745B3&hide_total_contributions=true" />
 
 </div>
 
